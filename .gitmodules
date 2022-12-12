@@ -5,6 +5,6 @@
 	branch = HEAD
 [submodule "TSCI"]
 	path = TSCI
-	url = https://github.com/dlcarl/tsml
+	url = https://github.com/dlcarl/tsci
 	shallow = true
 	registered = true
